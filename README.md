@@ -26,7 +26,7 @@ The program waits two seconds to simulate the database request and then prints t
 
 ## Expected Result
 
-The program demonstrates:
+The program demonstrates:  
 
 1. Asynchronous callbacks with `setTimeout()`.
 2. ES6 class syntax.
