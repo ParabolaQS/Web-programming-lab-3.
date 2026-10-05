@@ -30,7 +30,7 @@ The program demonstrates:
 
 1. Asynchronous callbacks with `setTimeout()`.
 2. ES6 class syntax.
-3. An immutable `id` property created with `Object.defineProperty()`.
+. An immutable `id` property created with `Object.defineProperty()`.
 4. Array methods such as `map()`, `filter()`, `find()`, `some()`, and `reduce()`.
 5. A higher-order filtering function.
 6. Analytical calculations over student/course data.
