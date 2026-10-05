@@ -1,6 +1,6 @@
 # University Course Management System
 
-## Assignment 3 - Web Programming Fall 2026
+## Assignment 3 - Web Programming Fall 2026.
 
 This project implements a small university course management and grading system using JavaScript.
 
